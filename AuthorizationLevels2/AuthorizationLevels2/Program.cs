@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AuthorizationLevels
+namespace AuthorizationLevels2
 {
     class Program
     {
@@ -21,11 +21,16 @@ namespace AuthorizationLevels
             #endregion
 
             #region persons
-            person p1 = new person("ori", 0547788027);
-            person p2 = new person("ori", 0547788027);
-            person p3 = new person("ori", 0547788027);
+            //person p1 = new person("ori", 0547788027);
+            //person p2 = new person("ori", 0547788027);
+            //person p3 = new person("ori", 0547788027);
 
-            Console.WriteLine(p1);
+            //Console.WriteLine(p1);
+            #endregion
+
+            #region user
+            user u1 = new user();
+
             #endregion
         }
 
