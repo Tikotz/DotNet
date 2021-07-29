@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{308DA40C-40F9-46C5-B444-DF3D59321655}</ProjectGuid>
+    <ProjectGuid>{48D551DC-164E-43E5-8DEF-3222FC983D0C}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Properties</RootNamespace>
-    <AssemblyName>Properties</AssemblyName>
+    <RootNamespace>Intarfaces</RootNamespace>
+    <AssemblyName>Intarfaces</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,14 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="dog.cs" />
-    <Compile Include="fish.cs" />
-    <Compile Include="IAnimal.cs" />
-    <Compile Include="IFlyable.cs" />
-    <Compile Include="IMakeSundable.cs" />
+    <Compile Include="classForInterface.cs" />
+    <Compile Include="Interface1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="seaKing.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
