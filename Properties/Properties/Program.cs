@@ -23,7 +23,7 @@ namespace Properties
             SeaKing seaking = new SeaKing();
             dog dogo = new dog();
             fish nemo = new fish();
-            AnimalIsHungry(seaking);
+            AnimalIsHungry(dogo);
             #endregion
             Plane pl = new Plane();
             Crow cr = new Crow();
@@ -31,7 +31,10 @@ namespace Properties
             Fly(cr);
 
             #region ubstract
-
+            
+            Table t = new Table();
+            t.Brake();
+            t.NewFromIKEA();
 
             #endregion
         }
@@ -124,17 +127,25 @@ namespace Properties
         }
         
     }
-
-    public abstract class Shape
+    #region ubstract
+    public abstract class Furnuture
     {
-        public string Name { get; set; }
-        public int Angles { get; set; }
+        public string Type;
+        public string Color;
 
-        public string GetShapeName()
+        public void Brake()
         {
-            return Name;
+            Console.WriteLine("BOOM TRAH!");
         }
-
-        public abstract void CalcArea();
+        public abstract void NewFromIKEA();
+        
     }
+    public class Table : Furnuture
+    {
+        public override void NewFromIKEA()
+        {
+            Console.WriteLine("im new from IKEA");
+        }
+    }
+    #endregion
 }

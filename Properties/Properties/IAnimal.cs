@@ -11,5 +11,7 @@ namespace Properties
         void Eat();
         void Sleep();
         void Move();
+
+        
     }
 }

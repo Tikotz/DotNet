@@ -22,8 +22,9 @@ namespace memoryGamePROJECT
                 }
 
             } while (counter != 1);
-
+            
             MainGame(len);
+            
             Console.ReadLine();
 
 

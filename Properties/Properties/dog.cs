@@ -14,7 +14,7 @@ namespace Properties
         }
         public void Sleep()
         {
-            Console.WriteLine("zzzz");
+            Console.WriteLine("zZzZ");
         }
         public void Move()
         {

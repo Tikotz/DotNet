@@ -26,12 +26,16 @@ namespace Intarfaces
         }
     }
 
-    
+
     public class TV : IOnabale
     {
         public void On()
         {
             Console.WriteLine("This TV ON");
+        }
+        public void off()
+        {
+            Console.WriteLine("this TV off");
         }
     }
     public class Computer : IOnabale
@@ -40,6 +44,10 @@ namespace Intarfaces
         {
             Console.WriteLine("This computer is ON");
         }
+        public void off()
+        {
+            Console.WriteLine("this computer is off");
+        }
     }
     public class Phone : IOnabale
     {
@@ -47,10 +55,15 @@ namespace Intarfaces
         {
             Console.WriteLine("This Phone is ON");
         }
+        public void off()
+        {
+            Console.WriteLine("this phone is off");
+        }
     }
 
     interface IOnabale
     {
         void On();
+        void off();
     }
 }
