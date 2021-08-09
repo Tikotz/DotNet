@@ -17,7 +17,7 @@ namespace Try_And_Catch
 
             #region HM
             Garage gar = new Garage(new string[] { "ferari", "sunny", "Meri" },3);
-            gar.AddCar(new Car("sunny", false, false));
+            gar.AddCar(new Car("sunny", false, true));
 
 
             #endregion
