@@ -55,21 +55,21 @@ namespace indexsers2
                 return GetStudentByName(name);
             }
         }
-        public Student[] this[int grade,int age]
+        public Student[] this[int grade]
         {
             get
             {
+                int i = 0;
                 Student[] BestStudents = new Student[1000];
                 foreach (var student in Students)
                 {
                     if (student.Grade > grade)
-                        BestStudents[i] = student;
+                    {
+                        BestStudents[i++] = student;
+                    }
                 }
                 return BestStudents;
             }
         }
-
-        public Student this[int i] => GetStudentById(i);
-        public Student this[string name] => GetStudentByName(name);
     }
 }

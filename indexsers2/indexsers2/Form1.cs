@@ -36,7 +36,7 @@ namespace indexsers2
         private void button3_Click(object sender, EventArgs e)
         {
             int grade = 85;
-            Student[] studentsArray = students[grade,29];
+            Student[] studentsArray = students[grade];
         }
     }
 }
