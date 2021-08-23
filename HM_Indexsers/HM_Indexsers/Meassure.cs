@@ -48,5 +48,20 @@ namespace HM_Indexsers
             }
             
         }
+        public bool? this[string city,double date]
+        {
+            get
+            {
+                for (int i = 0; i < m1.Length; i++)
+                {
+                    if (m1[i].Temp != null)
+                    {
+                        return true;
+                    }
+                }
+                return false;
+            }
+
+        }
     }
 }

@@ -1,10 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace indexsers2
+namespace Indexers2
 {
     public class Student
     {
@@ -14,40 +15,32 @@ namespace indexsers2
         public int Grade { get; set; }
     }
 
-    public class StudentManagment
+    public class StudentManagament
     {
-        Student[] Students = new Student[1000];
-        public int Count {  get; set; }
+        Student[] students = new Student[1000];
+        public int Count { get; set; }
 
-        public Student GetStudentById(int id)
+        public Student? GetStudentById(int id)
         {
             for (int i = 0; i < Count; i++)
             {
-                if (Students[i].Id == id)
-                {
-                    return Students[i];
-                }
+                if (students[i].Id == id) return students[i];
+
             }
             return null;
-        }
-
-        internal void GetStudentById(string text)
-        {
-            throw new NotImplementedException();
         }
 
         public Student? GetStudentByName(string name)
         {
             for (int i = 0; i < Count; i++)
             {
-                if (Students[i].Name == name)
-                {
-                    return Students[i];
-                }
+                if (students[i].Name == name) return students[i];
+
             }
             return null;
         }
 
+        //public Student this[int i] => GetStudentById(i);
         public Student this[string name]
         {
             get
@@ -55,21 +48,45 @@ namespace indexsers2
                 return GetStudentByName(name);
             }
         }
+
         public Student[] this[int grade]
         {
             get
             {
                 int i = 0;
-                Student[] BestStudents = new Student[1000];
-                foreach (var student in Students)
+                Student[] bestStudents = new Student[1000];
+                foreach (var student in students)
                 {
                     if (student.Grade > grade)
                     {
-                        BestStudents[i++] = student;
+                        bestStudents[i] = student;
+                        i++;
                     }
                 }
-                return BestStudents;
+                return bestStudents;
+            }
+        }
+
+
+    }
+
+    public class Sidra
+    {
+        public int this[int j]
+        {
+            get
+            {
+                int x = 1;
+                //Debug.WriteLine(x);
+                for (int i = 0; i < j; i++)
+                {
+                    x += 2;
+                    //Debug.WriteLine(x);
+                    
+                }
+                return x;
             }
         }
     }
+
 }

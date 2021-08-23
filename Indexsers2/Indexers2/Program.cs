@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace indexsers2
+namespace Indexers2
 {
     static class Program
     {
