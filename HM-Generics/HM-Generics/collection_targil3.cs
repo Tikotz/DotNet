@@ -6,15 +6,16 @@ using System.Threading.Tasks;
 
 namespace HM_Generics
 {
-    interface BLOOP<T>
+    
+    public class collection_targil3<T> where T : struct
     {
-        public string GetType(T type);
-    }
-    class collection_targil3<T> : BLOOP<T>
-    {
-        public string GetType(T type)
+        public T[] MyArray {  get; set; } = new T[10];
+        public int Count { get; set; } = 9;
+        public void AddItem(T item)
         {
-            return type.GetType().ToString();
+            MyArray[Count] = item;
+            Count--;
+            Array.Sort(MyArray);
         }
     }
 }

@@ -27,7 +27,7 @@ namespace HM_Generics
     class GenericID<T> where T : BaseProper
     {
         public int count { get; set; } = 1;
-        T[] listid = new T[10];
+         T[] listid = new T[10];
         public void add(T data)
         {
             for (int i = 0; i < listid.Length; i++)

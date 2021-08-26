@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace HM_Generics
 {
+
     public partial class Form1 : Form
     {
         #region 2
@@ -19,7 +20,6 @@ namespace HM_Generics
         collection_targil3<int> intlist= new collection_targil3<int>();
         collection_targil3<double> doublelist = new collection_targil3<double>();
         collection_targil3<char> charlist = new collection_targil3<char>();
-        collection_targil3<string> stringlist = new collection_targil3<string>();
         #endregion
         #region 4
         GenericID<boss> Boss = new GenericID<boss>();
@@ -30,15 +30,24 @@ namespace HM_Generics
         #region 7
         ClassWithName basename = new ClassWithName();
         #endregion
+        #region 5
+        Stack<int> stackint = new Stack<int>();
+        #endregion
+        #region 6 
+        Queue<int> queueint= new Queue<int>();
+        #endregion
 
         public Form1()
         {
             InitializeComponent();
         }
+       
 
         private void textBox6_TextChanged(object sender, EventArgs e)
         {
-
+            
+            
+            
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -66,29 +75,18 @@ namespace HM_Generics
 
         private void button4_Click(object sender, EventArgs e)
         {
-            try
+            if (type.Text == "int")
             {
-                textBox1.Text = intlist.GetType(int.Parse(textBox2.Text));
+                 intlist.AddItem(int.Parse(add.Text));
+                
             }
-            catch
+            else if (type.Text == "double")
             {
-
-                try
-                {
-                    textBox1.Text = doublelist.GetType(double.Parse(textBox2.Text));
-                }
-                catch 
-                {
-
-                    try
-                    {
-                        textBox1.Text = charlist.GetType(char.Parse(textBox2.Text));
-                    }
-                    catch 
-                    {
-                        textBox1.Text = stringlist.GetType(textBox2.Text);
-                    }
-                }
+                 doublelist.AddItem(double.Parse(add.Text));
+            }
+            else if (type.Text == "char")
+            {
+                    charlist.AddItem(char.Parse(add.Text));
             }
         }
 
@@ -127,6 +125,32 @@ namespace HM_Generics
         {
             textBox8.Text = basename.Name;
             textBox9.Text = basename.ToString();
+        }
+
+        private void button9_Click(object sender, EventArgs e)
+        {
+            stackint.Push(int.Parse(push.Text));
+        }
+
+        private void button11_Click(object sender, EventArgs e)
+        {
+            pop.Text = stackint.Pop().ToString();
+        }
+
+        private void button10_Click(object sender, EventArgs e)
+        {
+            peek.Text = stackint.Peek().ToString();
+        }
+
+        private void button12_Click(object sender, EventArgs e)
+        {
+            
+            queueint.Enqueue(int.Parse(enqueue.Text));
+        }
+
+        private void button14_Click(object sender, EventArgs e)
+        {
+            dequeue.Text = queueint.Dequeue().ToString();
         }
     }
 }
