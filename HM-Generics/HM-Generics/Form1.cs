@@ -22,10 +22,8 @@ namespace HM_Generics
         collection_targil3<char> charlist = new collection_targil3<char>();
         #endregion
         #region 4
-        GenericID<boss> Boss = new GenericID<boss>();
-        GenericID<imploye> Imploye = new GenericID<imploye>();
-        boss boss1 = new boss();
-        imploye imploye1 = new imploye();
+        CreateInstance<Person> cip = new CreateInstance<Person>();
+        
         #endregion
         #region 7
         ClassWithName basename = new ClassWithName();
@@ -92,33 +90,22 @@ namespace HM_Generics
 
         private void textBox5_TextChanged(object sender, EventArgs e)
         {
-            
+            cip.Instance.Id = 3;
         }
 
         private void button7_Click(object sender, EventArgs e)
         {
-            if (textBox5.Text == boss1.ToString())
-            {
-                Boss.add(new boss());
-            }
-            else if (textBox5.Text == imploye1.ToString())
-            {
-                Imploye.add(new imploye());
-            }
-            else
-            {
-                textBox5.Text = "wrong input";
-            }
+            
         }
 
         private void button8_Click(object sender, EventArgs e)
         {
-            textBox7.Text = Boss.sarchById(textBox6.Text);
+            
         }
 
         private void button6_Click(object sender, EventArgs e)
         {
-            textBox6.Text = Boss.sarchById(textBox7.Text);
+            
         }
 
         private void button5_Click(object sender, EventArgs e)
@@ -151,6 +138,11 @@ namespace HM_Generics
         private void button14_Click(object sender, EventArgs e)
         {
             dequeue.Text = queueint.Dequeue().ToString();
+        }
+
+        private void groupBox4_Enter(object sender, EventArgs e)
+        {
+
         }
     }
 }

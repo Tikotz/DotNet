@@ -6,54 +6,18 @@ using System.Threading.Tasks;
 
 namespace HM_Generics
 {
-    class BaseProper
+    class CreateInstance<T> where T : new()
     {
-        public string Id { get; set; }
-    }
-    class boss : BaseProper
-    {
-        public override string ToString()
+        public T Instance {  get; set; }
+
+        public CreateInstance()
         {
-            return $"boss";
+            Instance = new T();
         }
     }
-    class imploye : BaseProper
+    public class Person
     {
-        public override string ToString()
-        {
-            return $"imploye";
-        }
+        public int Id { get; set; }
     }
-    class GenericID<T> where T : BaseProper
-    {
-        public int count { get; set; } = 1;
-         T[] listid = new T[10];
-        public void add(T data)
-        {
-            for (int i = 0; i < listid.Length; i++)
-            {
-                if (listid[i] == null)
-                {
-                    listid[i] = data;
-                    listid[i].Id = $"{count}";
-                    count++;
-                    break;
-                }
-            }
-        }
-        public string sarchById(string id)
-        {
-            for (int i = 0; i < listid.Length; i++)
-            {
-                if (listid[i] != null)
-                {
-                    if (listid[i].Id == id)
-                    {
-                        return $"{listid[i].ToString()}";
-                    }
-                }
-            }
-            return $"not exist";
-        }
-    }
+    
 }
