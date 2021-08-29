@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31612.314
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HM-list_Compares", "HM-list_Compares\HM-list_Compares.csproj", "{CBC3A42A-63A5-473C-A791-3D4A7CED98ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBC3A42A-63A5-473C-A791-3D4A7CED98ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBC3A42A-63A5-473C-A791-3D4A7CED98ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBC3A42A-63A5-473C-A791-3D4A7CED98ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBC3A42A-63A5-473C-A791-3D4A7CED98ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DCAFD01-E2C7-4FCB-BAD6-E8DF66A88D99}
+	EndGlobalSection
+EndGlobal
