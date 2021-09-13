@@ -41,6 +41,8 @@ namespace HM_list_Compares
             this.listBox1 = new System.Windows.Forms.ListBox();
             this.listBox2 = new System.Windows.Forms.ListBox();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.label7 = new System.Windows.Forms.Label();
+            this.HumidityBox4 = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.cityBox1 = new System.Windows.Forms.TextBox();
             this.dateBox2 = new System.Windows.Forms.TextBox();
@@ -49,8 +51,6 @@ namespace HM_list_Compares
             this.label5 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.button4 = new System.Windows.Forms.Button();
-            this.label7 = new System.Windows.Forms.Label();
-            this.HumidityBox4 = new System.Windows.Forms.TextBox();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.SuspendLayout();
@@ -179,6 +179,22 @@ namespace HM_list_Compares
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "targil 2";
             // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(347, 171);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(85, 25);
+            this.label7.TabIndex = 9;
+            this.label7.Text = "Humidity";
+            // 
+            // HumidityBox4
+            // 
+            this.HumidityBox4.Location = new System.Drawing.Point(160, 165);
+            this.HumidityBox4.Name = "HumidityBox4";
+            this.HumidityBox4.Size = new System.Drawing.Size(150, 31);
+            this.HumidityBox4.TabIndex = 8;
+            // 
             // label4
             // 
             this.label4.AutoSize = true;
@@ -248,22 +264,6 @@ namespace HM_list_Compares
             this.button4.UseVisualStyleBackColor = true;
             this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
-            // label7
-            // 
-            this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(347, 171);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(85, 25);
-            this.label7.TabIndex = 9;
-            this.label7.Text = "Humidity";
-            // 
-            // HumidityBox4
-            // 
-            this.HumidityBox4.Location = new System.Drawing.Point(160, 165);
-            this.HumidityBox4.Name = "HumidityBox4";
-            this.HumidityBox4.Size = new System.Drawing.Size(150, 31);
-            this.HumidityBox4.TabIndex = 8;
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 25F);
@@ -275,6 +275,7 @@ namespace HM_list_Compares
             this.Controls.Add(this.groupBox1);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.groupBox2.ResumeLayout(false);

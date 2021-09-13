@@ -144,5 +144,16 @@ namespace HM_Generics
         {
 
         }
+
+        private void button6_Click_1(object sender, EventArgs e)
+        {
+            var student = new Student();
+            if (!stunameBox1.Text.IsValidName()) MessageBox.Show("First name not valid!!");
+            
+            student.FirstName = stunameBox1.Text;
+
+            
+            
+        }
     }
 }

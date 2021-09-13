@@ -51,6 +51,7 @@ namespace HM_list_Compares
             Temp = temp;
             Humidity = humidity;
         }
+        
 
         public int CompareTo(TempurtureChack? other)
         {
@@ -69,7 +70,31 @@ namespace HM_list_Compares
             return $"{City} {Date} {Temp} {Humidity}";
         }
     }
+    //public class TempurtureChack2 : IComparer<TempurtureChack>
+    //{
+    //    public string City { get; set; }
+    //    public string Date { get; set; }
+    //    public int Temp { get; set; }
+    //    public int Humidity { get; set; }
 
+    //    public TempurtureChack2(string city, string date, int temp, int humidity)
+    //    {
+    //        City = city;
+    //        Date = date;
+    //        Temp = temp;
+    //        Humidity = humidity;
+    //    }
+
+        //public override int Compare(TempurtureChack? x, TempurtureChack? y)
+        //{
+        //    if (x.City.CompareTo(y.City) != 0)
+        //    {
+        //        return y.Date.CompareTo(x.Date);
+        //    }
+        //    return y.City.CompareTo(x.City);
+        //}
+    }
+    
 
 
 
@@ -89,8 +114,6 @@ namespace HM_list_Compares
 
         static void Main()
         {
-            list.Add(new Students("ori", "tikozki", 69));
-            list.Add(new Students("adi", "cohen", 59));
 
 
 
