@@ -8,12 +8,13 @@ namespace ConsoleApp1
         public bool[,] AllPossitions = new bool[81, 26];
         Random randomShape = new Random();
         List<Shape> shapeList = new List<Shape>(14);
+        public int MyPoints { get; set; } = 0;
         public int count { get; set; } = 0;
         public bool Chack { get; set; }
         public int trys { get; set; } = 0;
         public MainGame()
         {
-            this.count = randomShape.Next(3, 6);
+            this.count = 2;/*randomShape.Next(3, 6);*/
         }
 
         public void Game()
@@ -50,14 +51,28 @@ namespace ConsoleApp1
                 Draw();
                 if (Chack == true)
                 {
-                    Ball ball = new Ball();
-                    int XBall = randomShape.Next(1, 79);
-                    int YBall = randomShape.Next(1, 24);
-                    while (AllPossitions[XBall, YBall] == false)
+                    try
                     {
-                        ball.BallMove(ref XBall, ref YBall);
+                        Ball ball = new Ball();
+                        int XBall = randomShape.Next(1, 79);
+                        int YBall = randomShape.Next(1, 24);
+                        Console.ForegroundColor = ConsoleColor.White;
+                        Console.SetCursorPosition(XBall, YBall);
+                        Console.Write(ball.MyChar);
+                        while (AllPossitions[XBall, YBall] == false)
+                        {
+                            AllPossitions[XBall, YBall] = true;
+                            ball.BallMove(ref XBall, ref YBall);
+                            MyPoints++;
+                        }
+                        count++;
                     }
-                    count++;
+                    catch
+                    {
+                        trys = 0;
+                        count++;
+                        continue;
+                    }
                 }
                 else
                 {
@@ -65,6 +80,12 @@ namespace ConsoleApp1
                     trys++;
                     continue;
                 }
+            }
+            if (count == 15 || trys == 30)
+            {
+                Console.Clear();
+                Console.ForegroundColor = ConsoleColor.White;
+                Console.WriteLine($"this is the END of the GAME\n this is your points: {MyPoints}");
             }
         }
 
