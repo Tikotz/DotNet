@@ -21,7 +21,7 @@ namespace ConsoleApp1
     }
     public class Line : Shape
     {
-        public Random r { get; set; } = new Random();
+        Random r = new Random((int)DateTime.Now.Ticks & 0x0000FFFF);
 
         public bool[,] Size { get; set; } = new bool[81, 26];
         public char MyChar { get; set; } = '=';
@@ -38,17 +38,23 @@ namespace ConsoleApp1
         {
             Size.clearArray();
             int size = r.Next(2, 10);
-            int num1 = r.Next(1, 79);
-            int num2 = r.Next(1, 24);
-            Console.SetCursorPosition(num1, num2);
+            int posX = r.Next(1, 79);
+            int posY = r.Next(1, 24);
+
+            if (posY >= 25)
+                return;
+
+            Console.SetCursorPosition(posX, posY);
             for (int i = 0; i < size; i++)
             {
-                if (num1 + i >= 80 || num2 >= 25)
+                posX++;
+
+                if (posX>= 80)
                 {
                     break;
                 }
 
-                Size[num1 + i, num2] = true;
+                Size[posX, posY] = true;
                 Console.Write(MyChar);
             }
         }
@@ -56,7 +62,7 @@ namespace ConsoleApp1
 
     public class Square : Shape
     {
-        public Random r1 { get; set; } = new Random();
+        Random r1 = new Random((int)DateTime.Now.Ticks & 0x0000FFFF);
 
         public bool[,] Size { get; set; } = new bool[81, 26];
         public char MyChar { get; set; } = '&';
@@ -73,19 +79,20 @@ namespace ConsoleApp1
         {
             Size.clearArray();
             int size = r1.Next(3, 10);
-            int num3 = r1.Next(1, 79);
-            int num4 = r1.Next(1, 24);
+            int posX = r1.Next(1, 79);
+            int posY = r1.Next(1, 24);
 
-            Console.SetCursorPosition(num3, num4);
+            Console.SetCursorPosition(posX, posY);
             for (int i = 0; i < size; i++)
             {
-                Console.SetCursorPosition(num3, num4 + i);
+                if (posY + i >= 25)
+                    return;
+                Console.SetCursorPosition(posX, posY + i);
                 for (int j = 0; j < size; j++)
                 {
-
-                    if (num3 + j < 80 && num4 + i < 25)
+                    if (posX + j < 80)
                     {
-                        Size[num3 + j, num4 + i] = true;
+                        Size[posX + j, posY + i] = true;
                         Console.Write(MyChar);
                     }
                 }
@@ -95,8 +102,7 @@ namespace ConsoleApp1
 
     public class Rectangle : Shape
     {
-        public Random r2 { get; set; } = new Random();
-
+        Random r2 = new Random((int)DateTime.Now.Ticks & 0x0000FFFF);
         public char MyChar { get; set; } = '@';
 
         public bool[,] Size { get; set; } = new bool[81, 26];
@@ -135,7 +141,7 @@ namespace ConsoleApp1
     }
     public class Triangular : Shape
     {
-        public Random r3 { get; set; } = new Random();
+        Random r3 = new Random((int)DateTime.Now.Ticks & 0x0000FFFF);
         public bool[,] Size { get; set; } = new bool[81, 26];
         public char MyChar { get; set; } = '#';
         public void ChooseColor()

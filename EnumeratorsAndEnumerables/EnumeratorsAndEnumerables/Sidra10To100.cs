@@ -11,7 +11,7 @@ namespace EnumeratorsAndEnumerables
     {
         public IEnumerator<int> GetEnumerator()
         {
-            for (int i = 1; i < 10; i++)
+            for (int i = 1; i <= 10; i++)
             {
                 yield return i * 10;
             }
@@ -23,4 +23,4 @@ namespace EnumeratorsAndEnumerables
         }
     }
 }
-}
+

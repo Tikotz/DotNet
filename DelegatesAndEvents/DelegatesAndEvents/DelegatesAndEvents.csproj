@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7CA623CB-6768-4FE1-BBB0-2BABCB87C20A}</ProjectGuid>
+    <ProjectGuid>{0E175972-D6CA-4EBA-A396-5565FD3CE48B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>EnumeratorsAndEnumerables</RootNamespace>
-    <AssemblyName>EnumeratorsAndEnumerables</AssemblyName>
+    <RootNamespace>DelegatesAndEvents</RootNamespace>
+    <AssemblyName>DelegatesAndEvents</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,12 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Calculation.cs" />
+    <Compile Include="Student.cs" />
+    <Compile Include="GreetDelegate.cs" />
+    <Compile Include="MyDelegate.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Sidra.cs" />
-    <Compile Include="Sidra10To100.cs" />
-    <Compile Include="Student.cs" />
-    <Compile Include="StudentsThatAreGood.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

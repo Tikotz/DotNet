@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31612.314
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegexHM", "RegexHM\RegexHM.csproj", "{AFE99340-3E9F-4947-9546-02B33E49E97A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFE99340-3E9F-4947-9546-02B33E49E97A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFE99340-3E9F-4947-9546-02B33E49E97A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFE99340-3E9F-4947-9546-02B33E49E97A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFE99340-3E9F-4947-9546-02B33E49E97A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F21CD499-FF64-469F-97B8-3BF77B6A22FE}
+	EndGlobalSection
+EndGlobal

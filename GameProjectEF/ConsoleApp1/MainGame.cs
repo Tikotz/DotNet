@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Threading;
 
 namespace ConsoleApp1
 {
@@ -10,7 +11,6 @@ namespace ConsoleApp1
         List<Shape> shapeList = new List<Shape>(14);
         public int MyPoints { get; set; } = 0;
         public int count { get; set; } = 0;
-        public bool Chack { get; set; }
         public int trys { get; set; } = 0;
         public MainGame()
         {
@@ -30,6 +30,7 @@ namespace ConsoleApp1
                 Console.Clear();
                 for (int i = 0; i < count; i++)
                 {
+                    Thread.Sleep(20);
                     int shapenum = randomShape.Next(1, 5);
                     switch (shapenum)
                     {
@@ -48,8 +49,7 @@ namespace ConsoleApp1
                     }
                 }
 
-                Draw();
-                if (Chack == true)
+                if (Draw())
                 {
                     try
                     {
@@ -89,19 +89,19 @@ namespace ConsoleApp1
             }
         }
 
-        public void Draw()
-        {
+        public bool Draw()
+        { 
             foreach (var shape in shapeList)
             {
                 shape.ChooseColor();
                 shape.GenarateShape();
-                Chack = AllPossitions.ShapeIsTher(shape.Size);
-
-                if (Chack == false)
+                //AllPossitions.DrawBoardWithShape(shape.Size);
+                if (!AllPossitions.ShapeIsThere(shape.Size))
                 {
-                    return;
-                }
+                    return false; // conflict found
+                };
             }
+            return true; // No conflicts
         }
 
 
