@@ -56,6 +56,8 @@ namespace HM_DelegatesStudent
             this.label10 = new System.Windows.Forms.Label();
             this.label11 = new System.Windows.Forms.Label();
             this.button4 = new System.Windows.Forms.Button();
+            this.button5 = new System.Windows.Forms.Button();
+            this.button6 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -283,11 +285,33 @@ namespace HM_DelegatesStudent
             this.button4.UseVisualStyleBackColor = true;
             this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
+            // button5
+            // 
+            this.button5.Location = new System.Drawing.Point(425, 12);
+            this.button5.Name = "button5";
+            this.button5.Size = new System.Drawing.Size(161, 68);
+            this.button5.TabIndex = 27;
+            this.button5.Text = "Filter By Age";
+            this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
+            // 
+            // button6
+            // 
+            this.button6.Location = new System.Drawing.Point(640, 12);
+            this.button6.Name = "button6";
+            this.button6.Size = new System.Drawing.Size(161, 68);
+            this.button6.TabIndex = 28;
+            this.button6.Text = "Filter By Length";
+            this.button6.UseVisualStyleBackColor = true;
+            this.button6.Click += new System.EventHandler(this.button6_Click);
+            // 
             // Form2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1205, 564);
+            this.Controls.Add(this.button6);
+            this.Controls.Add(this.button5);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.AvarageGradesText);
             this.Controls.Add(this.ToPayText);
@@ -351,6 +375,8 @@ namespace HM_DelegatesStudent
         private System.Windows.Forms.Label label10;
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.Button button5;
+        private System.Windows.Forms.Button button6;
     }
 }
 

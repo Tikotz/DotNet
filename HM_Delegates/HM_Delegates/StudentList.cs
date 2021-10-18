@@ -26,6 +26,16 @@ namespace HM_Delegates
             }
             return false;
         }
+
+        public static bool FilterByLength(Student student)
+        {
+            return student.FirstName.Length > 2;
+        }
+        public static bool FilterByAge(Student student)
+        {
+            return student.Age > 26;
+        }
+
         public static List<Student> Filter(FilterStudent filter)
         {
             List<Student> filterstudents = new List<Student>();

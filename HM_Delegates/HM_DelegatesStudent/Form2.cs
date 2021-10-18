@@ -115,6 +115,28 @@ namespace HM_DelegatesStudent
             }
         }
 
+        private void button5_Click(object sender, EventArgs e)
+        {
+            foreach (var item in StudentManage.StudentsList)
+            {
+                var filterByAge = StudentManage.FilterByAge(item);
+                if (filterByAge)
+                {
+                    MessageBox.Show("ther are student the are above 26 years old");
+                }
+            }
+        }
 
+        private void button6_Click(object sender, EventArgs e)
+        {
+            foreach (var item in StudentManage.StudentsList)
+            {
+                var filterByLength = StudentManage.FilterByLength(item);
+                if (filterByLength)
+                {
+                    MessageBox.Show("ther are not student that ther name contains less than 2 letters");
+                }
+            }
+        }
     }
 }
