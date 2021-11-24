@@ -1,0 +1,7 @@
+C:\Users\ori\Documents\workspace\.net\Funcions\Funcions\bin\Debug\Funcions.exe.config
+C:\Users\ori\Documents\workspace\.net\Funcions\Funcions\bin\Debug\Funcions.exe
+C:\Users\ori\Documents\workspace\.net\Funcions\Funcions\bin\Debug\Funcions.pdb
+C:\Users\ori\Documents\workspace\.net\Funcions\Funcions\obj\Debug\Funcions.csproj.AssemblyReference.cache
+C:\Users\ori\Documents\workspace\.net\Funcions\Funcions\obj\Debug\Funcions.csproj.CoreCompileInputs.cache
+C:\Users\ori\Documents\workspace\.net\Funcions\Funcions\obj\Debug\Funcions.exe
+C:\Users\ori\Documents\workspace\.net\Funcions\Funcions\obj\Debug\Funcions.pdb

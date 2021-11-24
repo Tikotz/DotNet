@@ -1,0 +1,7 @@
+C:\Users\ori\Documents\workspace\.net\EnumeratorsAndEnumerables\EnumeratorsAndEnumerables\bin\Debug\EnumeratorsAndEnumerables.exe.config
+C:\Users\ori\Documents\workspace\.net\EnumeratorsAndEnumerables\EnumeratorsAndEnumerables\bin\Debug\EnumeratorsAndEnumerables.exe
+C:\Users\ori\Documents\workspace\.net\EnumeratorsAndEnumerables\EnumeratorsAndEnumerables\bin\Debug\EnumeratorsAndEnumerables.pdb
+C:\Users\ori\Documents\workspace\.net\EnumeratorsAndEnumerables\EnumeratorsAndEnumerables\obj\Debug\EnumeratorsAndEnumerables.csproj.AssemblyReference.cache
+C:\Users\ori\Documents\workspace\.net\EnumeratorsAndEnumerables\EnumeratorsAndEnumerables\obj\Debug\EnumeratorsAndEnumerables.csproj.CoreCompileInputs.cache
+C:\Users\ori\Documents\workspace\.net\EnumeratorsAndEnumerables\EnumeratorsAndEnumerables\obj\Debug\EnumeratorsAndEnumerables.exe
+C:\Users\ori\Documents\workspace\.net\EnumeratorsAndEnumerables\EnumeratorsAndEnumerables\obj\Debug\EnumeratorsAndEnumerables.pdb

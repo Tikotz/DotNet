@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bb7adcfd-fabc-45fb-8314-62a629d7ab5c": {
+      "ProjectGuid": "bb7adcfd-fabc-45fb-8314-62a629d7ab5c",
+      "DisplayName": "HackerWe.Entities",
+      "ColorIndex": 0
+    },
+    "fe7b6bb4-4d0f-46bf-ac2e-ad0bc9f2696c": {
+      "ProjectGuid": "fe7b6bb4-4d0f-46bf-ac2e-ad0bc9f2696c",
+      "DisplayName": "HackerWe.UI",
+      "ColorIndex": 1
+    },
+    "bc5a5a80-8941-4246-a7d5-da344b249e5d": {
+      "ProjectGuid": "bc5a5a80-8941-4246-a7d5-da344b249e5d",
+      "DisplayName": "HackerWe.Logic",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

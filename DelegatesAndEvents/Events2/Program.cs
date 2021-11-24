@@ -88,9 +88,9 @@ namespace Events2
 
             #endregion
             #region 2
-            //LuckyNumberClass HM2 = new LuckyNumberClass();
-            //HM2.LuckyNumberWasEntered += Lucky;
-            //HM2.Lucky();
+            LuckyNumberClass HM2 = new LuckyNumberClass();
+            HM2.LuckyNumberWasEntered += Lucky;
+            HM2.Lucky();
 
 
 
@@ -103,7 +103,9 @@ namespace Events2
             //    Console.WriteLine("Enter number: ");
             //    number = int.Parse(Console.ReadLine());
             //}
+
             //LuckyNumberWasEntered();
+
             #endregion
 
 
@@ -158,7 +160,7 @@ namespace Events2
 
         public static event SimpleDelegate TooLongName;
         public static event SimpleDelegate NameIsFINE;
-        //public static event SimpleDelegate LuckyNumberWasEntered;
+        public static event SimpleDelegate LuckyNumberWasEntered;
         public static event SimpleDelegate LuckyStudent;
 
         public static event SimpleDelegate NumbersWasEntered;

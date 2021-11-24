@@ -1,0 +1,7 @@
+C:\Users\ori\Documents\workspace\.net\functions_practice\functions_practice\bin\Debug\functions_practice.exe.config
+C:\Users\ori\Documents\workspace\.net\functions_practice\functions_practice\bin\Debug\functions_practice.exe
+C:\Users\ori\Documents\workspace\.net\functions_practice\functions_practice\bin\Debug\functions_practice.pdb
+C:\Users\ori\Documents\workspace\.net\functions_practice\functions_practice\obj\Debug\functions_practice.csproj.AssemblyReference.cache
+C:\Users\ori\Documents\workspace\.net\functions_practice\functions_practice\obj\Debug\functions_practice.csproj.CoreCompileInputs.cache
+C:\Users\ori\Documents\workspace\.net\functions_practice\functions_practice\obj\Debug\functions_practice.exe
+C:\Users\ori\Documents\workspace\.net\functions_practice\functions_practice\obj\Debug\functions_practice.pdb

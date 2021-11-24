@@ -1,0 +1,7 @@
+C:\Users\ori\Documents\workspace\.net\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.exe.config
+C:\Users\ori\Documents\workspace\.net\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.exe
+C:\Users\ori\Documents\workspace\.net\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.pdb
+C:\Users\ori\Documents\workspace\.net\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.csproj.CoreCompileInputs.cache
+C:\Users\ori\Documents\workspace\.net\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.exe
+C:\Users\ori\Documents\workspace\.net\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.pdb
+C:\Users\ori\Documents\workspace\.net\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.csproj.AssemblyReference.cache

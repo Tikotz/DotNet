@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MR++nkQ64w1CIiFKhOVh+K1C/5jrASLgS2QTfn63YdSAIFARtZ4NP4Z3pLwfnw7TB46zdAWb+hukTVEsawNoug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ori\\Documents\\workspace\\.net\\DirectoryAndFiles1\\DirectoryAndFiles1\\DirectoryAndFiles1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ori\\.nuget\\packages\\microsoft.extensions.dependencymodel\\5.0.0\\microsoft.extensions.dependencymodel.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

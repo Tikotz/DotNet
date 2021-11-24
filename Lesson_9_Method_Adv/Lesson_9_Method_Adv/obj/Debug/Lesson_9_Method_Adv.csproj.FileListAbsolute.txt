@@ -1,0 +1,7 @@
+C:\Users\ori\Documents\workspace\.net\Lesson_9_Method_Adv\Lesson_9_Method_Adv\bin\Debug\Lesson_9_Method_Adv.exe.config
+C:\Users\ori\Documents\workspace\.net\Lesson_9_Method_Adv\Lesson_9_Method_Adv\bin\Debug\Lesson_9_Method_Adv.exe
+C:\Users\ori\Documents\workspace\.net\Lesson_9_Method_Adv\Lesson_9_Method_Adv\bin\Debug\Lesson_9_Method_Adv.pdb
+C:\Users\ori\Documents\workspace\.net\Lesson_9_Method_Adv\Lesson_9_Method_Adv\obj\Debug\Lesson_9_Method_Adv.csproj.AssemblyReference.cache
+C:\Users\ori\Documents\workspace\.net\Lesson_9_Method_Adv\Lesson_9_Method_Adv\obj\Debug\Lesson_9_Method_Adv.csproj.CoreCompileInputs.cache
+C:\Users\ori\Documents\workspace\.net\Lesson_9_Method_Adv\Lesson_9_Method_Adv\obj\Debug\Lesson_9_Method_Adv.exe
+C:\Users\ori\Documents\workspace\.net\Lesson_9_Method_Adv\Lesson_9_Method_Adv\obj\Debug\Lesson_9_Method_Adv.pdb

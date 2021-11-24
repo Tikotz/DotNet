@@ -1,0 +1,13 @@
+C:\Users\ori\Documents\workspace\.net\HackerWe\HackerWe.Entities\bin\Debug\net6.0\HackerWe.Entities.deps.json
+C:\Users\ori\Documents\workspace\.net\HackerWe\HackerWe.Entities\bin\Debug\net6.0\HackerWe.Entities.dll
+C:\Users\ori\Documents\workspace\.net\HackerWe\HackerWe.Entities\bin\Debug\net6.0\ref\HackerWe.Entities.dll
+C:\Users\ori\Documents\workspace\.net\HackerWe\HackerWe.Entities\bin\Debug\net6.0\HackerWe.Entities.pdb
+C:\Users\ori\Documents\workspace\.net\HackerWe\HackerWe.Entities\obj\Debug\net6.0\HackerWe.Entities.GlobalUsings.g.cs
+C:\Users\ori\Documents\workspace\.net\HackerWe\HackerWe.Entities\obj\Debug\net6.0\HackerWe.Entities.csproj.AssemblyReference.cache
+C:\Users\ori\Documents\workspace\.net\HackerWe\HackerWe.Entities\obj\Debug\net6.0\HackerWe.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ori\Documents\workspace\.net\HackerWe\HackerWe.Entities\obj\Debug\net6.0\HackerWe.Entities.AssemblyInfoInputs.cache
+C:\Users\ori\Documents\workspace\.net\HackerWe\HackerWe.Entities\obj\Debug\net6.0\HackerWe.Entities.AssemblyInfo.cs
+C:\Users\ori\Documents\workspace\.net\HackerWe\HackerWe.Entities\obj\Debug\net6.0\HackerWe.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ori\Documents\workspace\.net\HackerWe\HackerWe.Entities\obj\Debug\net6.0\HackerWe.Entities.dll
+C:\Users\ori\Documents\workspace\.net\HackerWe\HackerWe.Entities\obj\Debug\net6.0\ref\HackerWe.Entities.dll
+C:\Users\ori\Documents\workspace\.net\HackerWe\HackerWe.Entities\obj\Debug\net6.0\HackerWe.Entities.pdb

@@ -1,0 +1,7 @@
+C:\Users\ori\Documents\workspace\.net\BasicGenerics\BasicGenerics\bin\Debug\BasicGenerics.exe.config
+C:\Users\ori\Documents\workspace\.net\BasicGenerics\BasicGenerics\bin\Debug\BasicGenerics.exe
+C:\Users\ori\Documents\workspace\.net\BasicGenerics\BasicGenerics\bin\Debug\BasicGenerics.pdb
+C:\Users\ori\Documents\workspace\.net\BasicGenerics\BasicGenerics\obj\Debug\BasicGenerics.csproj.AssemblyReference.cache
+C:\Users\ori\Documents\workspace\.net\BasicGenerics\BasicGenerics\obj\Debug\BasicGenerics.csproj.CoreCompileInputs.cache
+C:\Users\ori\Documents\workspace\.net\BasicGenerics\BasicGenerics\obj\Debug\BasicGenerics.exe
+C:\Users\ori\Documents\workspace\.net\BasicGenerics\BasicGenerics\obj\Debug\BasicGenerics.pdb

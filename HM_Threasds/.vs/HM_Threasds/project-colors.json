@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "758c3ae0-161a-4633-bcb6-ad1ca0be5084": {
+      "ProjectGuid": "758c3ae0-161a-4633-bcb6-ad1ca0be5084",
+      "DisplayName": "HM_Threasds5",
+      "ColorIndex": 0
+    },
+    "aec1f98e-1c99-490b-bc39-0c20685097ee": {
+      "ProjectGuid": "aec1f98e-1c99-490b-bc39-0c20685097ee",
+      "DisplayName": "ThreadsHM",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

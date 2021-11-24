@@ -1,0 +1,16 @@
+C:\Users\ori\Documents\workspace\.net\AnonymusMethods\SystemGenricsDelegates\obj\Debug\net6.0\SystemGenricsDelegates.csproj.AssemblyReference.cache
+C:\Users\ori\Documents\workspace\.net\AnonymusMethods\SystemGenricsDelegates\obj\Debug\net6.0\SystemGenricsDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ori\Documents\workspace\.net\AnonymusMethods\SystemGenricsDelegates\obj\Debug\net6.0\SystemGenricsDelegates.AssemblyInfoInputs.cache
+C:\Users\ori\Documents\workspace\.net\AnonymusMethods\SystemGenricsDelegates\obj\Debug\net6.0\SystemGenricsDelegates.AssemblyInfo.cs
+C:\Users\ori\Documents\workspace\.net\AnonymusMethods\SystemGenricsDelegates\obj\Debug\net6.0\SystemGenricsDelegates.ImplicitNamespaceImports.cs
+C:\Users\ori\Documents\workspace\.net\AnonymusMethods\SystemGenricsDelegates\obj\Debug\net6.0\SystemGenricsDelegates.csproj.CoreCompileInputs.cache
+C:\Users\ori\Documents\workspace\.net\AnonymusMethods\SystemGenricsDelegates\bin\Debug\net6.0\SystemGenricsDelegates.exe
+C:\Users\ori\Documents\workspace\.net\AnonymusMethods\SystemGenricsDelegates\bin\Debug\net6.0\SystemGenricsDelegates.deps.json
+C:\Users\ori\Documents\workspace\.net\AnonymusMethods\SystemGenricsDelegates\bin\Debug\net6.0\SystemGenricsDelegates.runtimeconfig.json
+C:\Users\ori\Documents\workspace\.net\AnonymusMethods\SystemGenricsDelegates\bin\Debug\net6.0\SystemGenricsDelegates.dll
+C:\Users\ori\Documents\workspace\.net\AnonymusMethods\SystemGenricsDelegates\bin\Debug\net6.0\ref\SystemGenricsDelegates.dll
+C:\Users\ori\Documents\workspace\.net\AnonymusMethods\SystemGenricsDelegates\bin\Debug\net6.0\SystemGenricsDelegates.pdb
+C:\Users\ori\Documents\workspace\.net\AnonymusMethods\SystemGenricsDelegates\obj\Debug\net6.0\SystemGenricsDelegates.dll
+C:\Users\ori\Documents\workspace\.net\AnonymusMethods\SystemGenricsDelegates\obj\Debug\net6.0\ref\SystemGenricsDelegates.dll
+C:\Users\ori\Documents\workspace\.net\AnonymusMethods\SystemGenricsDelegates\obj\Debug\net6.0\SystemGenricsDelegates.pdb
+C:\Users\ori\Documents\workspace\.net\AnonymusMethods\SystemGenricsDelegates\obj\Debug\net6.0\SystemGenricsDelegates.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HM_Threasds5/1.0.0": {
+        "runtime": {
+          "HM_Threasds5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HM_Threasds5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

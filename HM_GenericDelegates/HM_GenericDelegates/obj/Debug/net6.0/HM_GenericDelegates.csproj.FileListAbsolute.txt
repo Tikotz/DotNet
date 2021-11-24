@@ -1,0 +1,16 @@
+C:\Users\ori\Documents\workspace\.net\HM_GenericDelegates\HM_GenericDelegates\bin\Debug\net6.0\HM_GenericDelegates.exe
+C:\Users\ori\Documents\workspace\.net\HM_GenericDelegates\HM_GenericDelegates\bin\Debug\net6.0\HM_GenericDelegates.deps.json
+C:\Users\ori\Documents\workspace\.net\HM_GenericDelegates\HM_GenericDelegates\bin\Debug\net6.0\HM_GenericDelegates.runtimeconfig.json
+C:\Users\ori\Documents\workspace\.net\HM_GenericDelegates\HM_GenericDelegates\bin\Debug\net6.0\HM_GenericDelegates.dll
+C:\Users\ori\Documents\workspace\.net\HM_GenericDelegates\HM_GenericDelegates\bin\Debug\net6.0\ref\HM_GenericDelegates.dll
+C:\Users\ori\Documents\workspace\.net\HM_GenericDelegates\HM_GenericDelegates\bin\Debug\net6.0\HM_GenericDelegates.pdb
+C:\Users\ori\Documents\workspace\.net\HM_GenericDelegates\HM_GenericDelegates\obj\Debug\net6.0\HM_GenericDelegates.csproj.AssemblyReference.cache
+C:\Users\ori\Documents\workspace\.net\HM_GenericDelegates\HM_GenericDelegates\obj\Debug\net6.0\HM_GenericDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ori\Documents\workspace\.net\HM_GenericDelegates\HM_GenericDelegates\obj\Debug\net6.0\HM_GenericDelegates.AssemblyInfoInputs.cache
+C:\Users\ori\Documents\workspace\.net\HM_GenericDelegates\HM_GenericDelegates\obj\Debug\net6.0\HM_GenericDelegates.AssemblyInfo.cs
+C:\Users\ori\Documents\workspace\.net\HM_GenericDelegates\HM_GenericDelegates\obj\Debug\net6.0\HM_GenericDelegates.ImplicitNamespaceImports.cs
+C:\Users\ori\Documents\workspace\.net\HM_GenericDelegates\HM_GenericDelegates\obj\Debug\net6.0\HM_GenericDelegates.csproj.CoreCompileInputs.cache
+C:\Users\ori\Documents\workspace\.net\HM_GenericDelegates\HM_GenericDelegates\obj\Debug\net6.0\HM_GenericDelegates.dll
+C:\Users\ori\Documents\workspace\.net\HM_GenericDelegates\HM_GenericDelegates\obj\Debug\net6.0\ref\HM_GenericDelegates.dll
+C:\Users\ori\Documents\workspace\.net\HM_GenericDelegates\HM_GenericDelegates\obj\Debug\net6.0\HM_GenericDelegates.pdb
+C:\Users\ori\Documents\workspace\.net\HM_GenericDelegates\HM_GenericDelegates\obj\Debug\net6.0\HM_GenericDelegates.genruntimeconfig.cache

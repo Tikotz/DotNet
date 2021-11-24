@@ -1,0 +1,6 @@
+C:\Users\ori\Documents\workspace\.net\DelegatesAndEvents\ReturningDelegates\obj\Debug\net6.0-windows\ReturningDelegates.csproj.AssemblyReference.cache
+C:\Users\ori\Documents\workspace\.net\DelegatesAndEvents\ReturningDelegates\obj\Debug\net6.0-windows\ReturningDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ori\Documents\workspace\.net\DelegatesAndEvents\ReturningDelegates\obj\Debug\net6.0-windows\ReturningDelegates.AssemblyInfoInputs.cache
+C:\Users\ori\Documents\workspace\.net\DelegatesAndEvents\ReturningDelegates\obj\Debug\net6.0-windows\ReturningDelegates.AssemblyInfo.cs
+C:\Users\ori\Documents\workspace\.net\DelegatesAndEvents\ReturningDelegates\obj\Debug\net6.0-windows\ReturningDelegates.ImplicitNamespaceImports.cs
+C:\Users\ori\Documents\workspace\.net\DelegatesAndEvents\ReturningDelegates\obj\Debug\net6.0-windows\ReturningDelegates.csproj.CoreCompileInputs.cache

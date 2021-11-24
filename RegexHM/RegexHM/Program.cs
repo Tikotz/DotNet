@@ -46,10 +46,10 @@ namespace RegexHM
             //Console.WriteLine(unswer);
             #endregion
             #region 2
-            //string Me = "Ori Tikozki";
-            //Regex IsValidName = new Regex(@"\D{2,18} \D{2,18}");
-            //var result = IsValidName.IsMatch(Me);
-            //Console.WriteLine(result);
+            string Me = "Ori Tikozki";
+            Regex IsValidName = new Regex(@"\D{2,18} \D{2,18}");
+            var result = IsValidName.IsMatch(Me);
+            Console.WriteLine(result);
             #endregion
             #region 3
             //string num = "69.69";

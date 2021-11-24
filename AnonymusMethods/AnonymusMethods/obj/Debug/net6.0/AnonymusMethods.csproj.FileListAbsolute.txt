@@ -1,0 +1,16 @@
+C:\Users\ori\Documents\workspace\.net\AnonymusMethods\AnonymusMethods\obj\Debug\net6.0\AnonymusMethods.csproj.AssemblyReference.cache
+C:\Users\ori\Documents\workspace\.net\AnonymusMethods\AnonymusMethods\obj\Debug\net6.0\AnonymusMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ori\Documents\workspace\.net\AnonymusMethods\AnonymusMethods\obj\Debug\net6.0\AnonymusMethods.AssemblyInfoInputs.cache
+C:\Users\ori\Documents\workspace\.net\AnonymusMethods\AnonymusMethods\obj\Debug\net6.0\AnonymusMethods.AssemblyInfo.cs
+C:\Users\ori\Documents\workspace\.net\AnonymusMethods\AnonymusMethods\obj\Debug\net6.0\AnonymusMethods.ImplicitNamespaceImports.cs
+C:\Users\ori\Documents\workspace\.net\AnonymusMethods\AnonymusMethods\obj\Debug\net6.0\AnonymusMethods.csproj.CoreCompileInputs.cache
+C:\Users\ori\Documents\workspace\.net\AnonymusMethods\AnonymusMethods\bin\Debug\net6.0\AnonymusMethods.exe
+C:\Users\ori\Documents\workspace\.net\AnonymusMethods\AnonymusMethods\bin\Debug\net6.0\AnonymusMethods.deps.json
+C:\Users\ori\Documents\workspace\.net\AnonymusMethods\AnonymusMethods\bin\Debug\net6.0\AnonymusMethods.runtimeconfig.json
+C:\Users\ori\Documents\workspace\.net\AnonymusMethods\AnonymusMethods\bin\Debug\net6.0\AnonymusMethods.dll
+C:\Users\ori\Documents\workspace\.net\AnonymusMethods\AnonymusMethods\bin\Debug\net6.0\ref\AnonymusMethods.dll
+C:\Users\ori\Documents\workspace\.net\AnonymusMethods\AnonymusMethods\bin\Debug\net6.0\AnonymusMethods.pdb
+C:\Users\ori\Documents\workspace\.net\AnonymusMethods\AnonymusMethods\obj\Debug\net6.0\AnonymusMethods.dll
+C:\Users\ori\Documents\workspace\.net\AnonymusMethods\AnonymusMethods\obj\Debug\net6.0\ref\AnonymusMethods.dll
+C:\Users\ori\Documents\workspace\.net\AnonymusMethods\AnonymusMethods\obj\Debug\net6.0\AnonymusMethods.pdb
+C:\Users\ori\Documents\workspace\.net\AnonymusMethods\AnonymusMethods\obj\Debug\net6.0\AnonymusMethods.genruntimeconfig.cache

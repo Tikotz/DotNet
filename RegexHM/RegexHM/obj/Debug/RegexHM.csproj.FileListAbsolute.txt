@@ -1,0 +1,8 @@
+C:\Users\ori\Documents\workspace\.net\RegexHM\RegexHM\bin\Debug\RegexHM.exe.config
+C:\Users\ori\Documents\workspace\.net\RegexHM\RegexHM\bin\Debug\RegexHM.exe
+C:\Users\ori\Documents\workspace\.net\RegexHM\RegexHM\bin\Debug\RegexHM.pdb
+C:\Users\ori\Documents\workspace\.net\RegexHM\RegexHM\obj\Debug\RegexHM.csproj.AssemblyReference.cache
+C:\Users\ori\Documents\workspace\.net\RegexHM\RegexHM\obj\Debug\RegexHM.csproj.CoreCompileInputs.cache
+C:\Users\ori\Documents\workspace\.net\RegexHM\RegexHM\obj\Debug\RegexHM.exe
+C:\Users\ori\Documents\workspace\.net\RegexHM\RegexHM\obj\Debug\RegexHM.pdb
+C:\Users\ori\Documents\workspace\.net\RegexHM\RegexHM\obj\Debug\RegexHM.csproj.SuggestedBindingRedirects.cache

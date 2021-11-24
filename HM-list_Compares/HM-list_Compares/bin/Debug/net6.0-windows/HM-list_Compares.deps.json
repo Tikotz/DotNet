@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HM-list_Compares/1.0.0": {
+        "runtime": {
+          "HM-list_Compares.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HM-list_Compares/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\ori\Documents\workspace\.net\HM-AnonymusMethodsAndLamba\HM-AnonymusMethodsAndLamba\bin\Debug\net6.0\HM-AnonymusMethodsAndLamba.exe
+C:\Users\ori\Documents\workspace\.net\HM-AnonymusMethodsAndLamba\HM-AnonymusMethodsAndLamba\bin\Debug\net6.0\HM-AnonymusMethodsAndLamba.deps.json
+C:\Users\ori\Documents\workspace\.net\HM-AnonymusMethodsAndLamba\HM-AnonymusMethodsAndLamba\bin\Debug\net6.0\HM-AnonymusMethodsAndLamba.runtimeconfig.json
+C:\Users\ori\Documents\workspace\.net\HM-AnonymusMethodsAndLamba\HM-AnonymusMethodsAndLamba\bin\Debug\net6.0\HM-AnonymusMethodsAndLamba.dll
+C:\Users\ori\Documents\workspace\.net\HM-AnonymusMethodsAndLamba\HM-AnonymusMethodsAndLamba\bin\Debug\net6.0\ref\HM-AnonymusMethodsAndLamba.dll
+C:\Users\ori\Documents\workspace\.net\HM-AnonymusMethodsAndLamba\HM-AnonymusMethodsAndLamba\bin\Debug\net6.0\HM-AnonymusMethodsAndLamba.pdb
+C:\Users\ori\Documents\workspace\.net\HM-AnonymusMethodsAndLamba\HM-AnonymusMethodsAndLamba\obj\Debug\net6.0\HM-AnonymusMethodsAndLamba.csproj.AssemblyReference.cache
+C:\Users\ori\Documents\workspace\.net\HM-AnonymusMethodsAndLamba\HM-AnonymusMethodsAndLamba\obj\Debug\net6.0\HM-AnonymusMethodsAndLamba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ori\Documents\workspace\.net\HM-AnonymusMethodsAndLamba\HM-AnonymusMethodsAndLamba\obj\Debug\net6.0\HM-AnonymusMethodsAndLamba.AssemblyInfoInputs.cache
+C:\Users\ori\Documents\workspace\.net\HM-AnonymusMethodsAndLamba\HM-AnonymusMethodsAndLamba\obj\Debug\net6.0\HM-AnonymusMethodsAndLamba.AssemblyInfo.cs
+C:\Users\ori\Documents\workspace\.net\HM-AnonymusMethodsAndLamba\HM-AnonymusMethodsAndLamba\obj\Debug\net6.0\HM-AnonymusMethodsAndLamba.ImplicitNamespaceImports.cs
+C:\Users\ori\Documents\workspace\.net\HM-AnonymusMethodsAndLamba\HM-AnonymusMethodsAndLamba\obj\Debug\net6.0\HM-AnonymusMethodsAndLamba.csproj.CoreCompileInputs.cache
+C:\Users\ori\Documents\workspace\.net\HM-AnonymusMethodsAndLamba\HM-AnonymusMethodsAndLamba\obj\Debug\net6.0\HM-AnonymusMethodsAndLamba.dll
+C:\Users\ori\Documents\workspace\.net\HM-AnonymusMethodsAndLamba\HM-AnonymusMethodsAndLamba\obj\Debug\net6.0\ref\HM-AnonymusMethodsAndLamba.dll
+C:\Users\ori\Documents\workspace\.net\HM-AnonymusMethodsAndLamba\HM-AnonymusMethodsAndLamba\obj\Debug\net6.0\HM-AnonymusMethodsAndLamba.pdb
+C:\Users\ori\Documents\workspace\.net\HM-AnonymusMethodsAndLamba\HM-AnonymusMethodsAndLamba\obj\Debug\net6.0\HM-AnonymusMethodsAndLamba.genruntimeconfig.cache

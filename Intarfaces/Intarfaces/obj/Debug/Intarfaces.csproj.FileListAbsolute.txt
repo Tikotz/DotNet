@@ -1,0 +1,7 @@
+C:\Users\ori\Documents\workspace\.net\Intarfaces\Intarfaces\obj\Debug\Intarfaces.csproj.AssemblyReference.cache
+C:\Users\ori\Documents\workspace\.net\Intarfaces\Intarfaces\obj\Debug\Intarfaces.csproj.CoreCompileInputs.cache
+C:\Users\ori\Documents\workspace\.net\Intarfaces\Intarfaces\bin\Debug\Intarfaces.exe.config
+C:\Users\ori\Documents\workspace\.net\Intarfaces\Intarfaces\bin\Debug\Intarfaces.exe
+C:\Users\ori\Documents\workspace\.net\Intarfaces\Intarfaces\bin\Debug\Intarfaces.pdb
+C:\Users\ori\Documents\workspace\.net\Intarfaces\Intarfaces\obj\Debug\Intarfaces.exe
+C:\Users\ori\Documents\workspace\.net\Intarfaces\Intarfaces\obj\Debug\Intarfaces.pdb

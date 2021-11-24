@@ -1,0 +1,7 @@
+C:\Users\ori\Documents\workspace\.net\loops\loops\bin\Debug\loops.exe.config
+C:\Users\ori\Documents\workspace\.net\loops\loops\bin\Debug\loops.exe
+C:\Users\ori\Documents\workspace\.net\loops\loops\bin\Debug\loops.pdb
+C:\Users\ori\Documents\workspace\.net\loops\loops\obj\Debug\loops.csprojAssemblyReference.cache
+C:\Users\ori\Documents\workspace\.net\loops\loops\obj\Debug\loops.csproj.CoreCompileInputs.cache
+C:\Users\ori\Documents\workspace\.net\loops\loops\obj\Debug\loops.exe
+C:\Users\ori\Documents\workspace\.net\loops\loops\obj\Debug\loops.pdb

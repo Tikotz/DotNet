@@ -1,0 +1,16 @@
+C:\Users\ori\Documents\workspace\.net\HackerWe\HackerWe.Logic\bin\Debug\net6.0\HackerWe.Logic.deps.json
+C:\Users\ori\Documents\workspace\.net\HackerWe\HackerWe.Logic\bin\Debug\net6.0\HackerWe.Logic.dll
+C:\Users\ori\Documents\workspace\.net\HackerWe\HackerWe.Logic\bin\Debug\net6.0\ref\HackerWe.Logic.dll
+C:\Users\ori\Documents\workspace\.net\HackerWe\HackerWe.Logic\bin\Debug\net6.0\HackerWe.Logic.pdb
+C:\Users\ori\Documents\workspace\.net\HackerWe\HackerWe.Logic\bin\Debug\net6.0\HackerWe.Entities.dll
+C:\Users\ori\Documents\workspace\.net\HackerWe\HackerWe.Logic\bin\Debug\net6.0\HackerWe.Entities.pdb
+C:\Users\ori\Documents\workspace\.net\HackerWe\HackerWe.Logic\obj\Debug\net6.0\HackerWe.Logic.GlobalUsings.g.cs
+C:\Users\ori\Documents\workspace\.net\HackerWe\HackerWe.Logic\obj\Debug\net6.0\HackerWe.Logic.csproj.AssemblyReference.cache
+C:\Users\ori\Documents\workspace\.net\HackerWe\HackerWe.Logic\obj\Debug\net6.0\HackerWe.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ori\Documents\workspace\.net\HackerWe\HackerWe.Logic\obj\Debug\net6.0\HackerWe.Logic.AssemblyInfoInputs.cache
+C:\Users\ori\Documents\workspace\.net\HackerWe\HackerWe.Logic\obj\Debug\net6.0\HackerWe.Logic.AssemblyInfo.cs
+C:\Users\ori\Documents\workspace\.net\HackerWe\HackerWe.Logic\obj\Debug\net6.0\HackerWe.Logic.csproj.CoreCompileInputs.cache
+C:\Users\ori\Documents\workspace\.net\HackerWe\HackerWe.Logic\obj\Debug\net6.0\HackerWe.Logic.csproj.CopyComplete
+C:\Users\ori\Documents\workspace\.net\HackerWe\HackerWe.Logic\obj\Debug\net6.0\HackerWe.Logic.dll
+C:\Users\ori\Documents\workspace\.net\HackerWe\HackerWe.Logic\obj\Debug\net6.0\ref\HackerWe.Logic.dll
+C:\Users\ori\Documents\workspace\.net\HackerWe\HackerWe.Logic\obj\Debug\net6.0\HackerWe.Logic.pdb

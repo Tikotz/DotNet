@@ -1,0 +1,10 @@
+C:\Users\ori\Documents\workspace\.net\DelegatesAndEvents\Events2\bin\Debug\Events2.exe.config
+C:\Users\ori\Documents\workspace\.net\DelegatesAndEvents\Events2\bin\Debug\Events2.exe
+C:\Users\ori\Documents\workspace\.net\DelegatesAndEvents\Events2\bin\Debug\Events2.pdb
+C:\Users\ori\Documents\workspace\.net\DelegatesAndEvents\Events2\obj\Debug\Events2.csproj.AssemblyReference.cache
+C:\Users\ori\Documents\workspace\.net\DelegatesAndEvents\Events2\obj\Debug\Events2.csproj.CoreCompileInputs.cache
+C:\Users\ori\Documents\workspace\.net\DelegatesAndEvents\Events2\obj\Debug\Events2.exe
+C:\Users\ori\Documents\workspace\.net\DelegatesAndEvents\Events2\obj\Debug\Events2.pdb
+C:\Users\ori\Documents\workspace\.net\DelegatesAndEvents\Events2\bin\Debug\DelegatesAndEvents.exe
+C:\Users\ori\Documents\workspace\.net\DelegatesAndEvents\Events2\bin\Debug\DelegatesAndEvents.pdb
+C:\Users\ori\Documents\workspace\.net\DelegatesAndEvents\Events2\bin\Debug\DelegatesAndEvents.exe.config

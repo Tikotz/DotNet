@@ -1,0 +1,7 @@
+C:\Users\ori\Documents\workspace\.net\HM-ExtentionMethods\HM-ExtentionMethods\bin\Debug\HM-ExtentionMethods.exe.config
+C:\Users\ori\Documents\workspace\.net\HM-ExtentionMethods\HM-ExtentionMethods\bin\Debug\HM-ExtentionMethods.exe
+C:\Users\ori\Documents\workspace\.net\HM-ExtentionMethods\HM-ExtentionMethods\bin\Debug\HM-ExtentionMethods.pdb
+C:\Users\ori\Documents\workspace\.net\HM-ExtentionMethods\HM-ExtentionMethods\obj\Debug\HM-ExtentionMethods.csproj.AssemblyReference.cache
+C:\Users\ori\Documents\workspace\.net\HM-ExtentionMethods\HM-ExtentionMethods\obj\Debug\HM-ExtentionMethods.csproj.CoreCompileInputs.cache
+C:\Users\ori\Documents\workspace\.net\HM-ExtentionMethods\HM-ExtentionMethods\obj\Debug\HM-ExtentionMethods.exe
+C:\Users\ori\Documents\workspace\.net\HM-ExtentionMethods\HM-ExtentionMethods\obj\Debug\HM-ExtentionMethods.pdb

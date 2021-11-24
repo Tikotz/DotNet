@@ -1,0 +1,7 @@
+C:\Users\ori\Documents\workspace\.net\ClassTypes\ClassTypes\bin\Debug\ClassTypes.exe.config
+C:\Users\ori\Documents\workspace\.net\ClassTypes\ClassTypes\bin\Debug\ClassTypes.exe
+C:\Users\ori\Documents\workspace\.net\ClassTypes\ClassTypes\bin\Debug\ClassTypes.pdb
+C:\Users\ori\Documents\workspace\.net\ClassTypes\ClassTypes\obj\Debug\ClassTypes.csproj.AssemblyReference.cache
+C:\Users\ori\Documents\workspace\.net\ClassTypes\ClassTypes\obj\Debug\ClassTypes.csproj.CoreCompileInputs.cache
+C:\Users\ori\Documents\workspace\.net\ClassTypes\ClassTypes\obj\Debug\ClassTypes.exe
+C:\Users\ori\Documents\workspace\.net\ClassTypes\ClassTypes\obj\Debug\ClassTypes.pdb

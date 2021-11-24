@@ -1,0 +1,16 @@
+C:\Users\ori\Documents\workspace\.net\TasksAndTreads\Async1\bin\Debug\net5.0\Async1.exe
+C:\Users\ori\Documents\workspace\.net\TasksAndTreads\Async1\bin\Debug\net5.0\Async1.deps.json
+C:\Users\ori\Documents\workspace\.net\TasksAndTreads\Async1\bin\Debug\net5.0\Async1.runtimeconfig.json
+C:\Users\ori\Documents\workspace\.net\TasksAndTreads\Async1\bin\Debug\net5.0\Async1.runtimeconfig.dev.json
+C:\Users\ori\Documents\workspace\.net\TasksAndTreads\Async1\bin\Debug\net5.0\Async1.dll
+C:\Users\ori\Documents\workspace\.net\TasksAndTreads\Async1\bin\Debug\net5.0\ref\Async1.dll
+C:\Users\ori\Documents\workspace\.net\TasksAndTreads\Async1\bin\Debug\net5.0\Async1.pdb
+C:\Users\ori\Documents\workspace\.net\TasksAndTreads\Async1\obj\Debug\net5.0\Async1.csproj.AssemblyReference.cache
+C:\Users\ori\Documents\workspace\.net\TasksAndTreads\Async1\obj\Debug\net5.0\Async1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ori\Documents\workspace\.net\TasksAndTreads\Async1\obj\Debug\net5.0\Async1.AssemblyInfoInputs.cache
+C:\Users\ori\Documents\workspace\.net\TasksAndTreads\Async1\obj\Debug\net5.0\Async1.AssemblyInfo.cs
+C:\Users\ori\Documents\workspace\.net\TasksAndTreads\Async1\obj\Debug\net5.0\Async1.csproj.CoreCompileInputs.cache
+C:\Users\ori\Documents\workspace\.net\TasksAndTreads\Async1\obj\Debug\net5.0\Async1.dll
+C:\Users\ori\Documents\workspace\.net\TasksAndTreads\Async1\obj\Debug\net5.0\ref\Async1.dll
+C:\Users\ori\Documents\workspace\.net\TasksAndTreads\Async1\obj\Debug\net5.0\Async1.pdb
+C:\Users\ori\Documents\workspace\.net\TasksAndTreads\Async1\obj\Debug\net5.0\Async1.genruntimeconfig.cache

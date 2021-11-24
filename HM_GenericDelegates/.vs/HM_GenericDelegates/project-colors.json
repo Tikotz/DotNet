@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "2abed12b-0c4c-4cb0-9766-d6f6c70d8639": {
+      "ProjectGuid": "2abed12b-0c4c-4cb0-9766-d6f6c70d8639",
+      "DisplayName": "HM_GenericDelegates",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

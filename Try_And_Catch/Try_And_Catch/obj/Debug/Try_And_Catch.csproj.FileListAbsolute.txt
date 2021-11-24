@@ -1,0 +1,7 @@
+C:\Users\ori\Documents\workspace\.net\Try_And_Catch\Try_And_Catch\bin\Debug\Try_And_Catch.exe.config
+C:\Users\ori\Documents\workspace\.net\Try_And_Catch\Try_And_Catch\bin\Debug\Try_And_Catch.exe
+C:\Users\ori\Documents\workspace\.net\Try_And_Catch\Try_And_Catch\bin\Debug\Try_And_Catch.pdb
+C:\Users\ori\Documents\workspace\.net\Try_And_Catch\Try_And_Catch\obj\Debug\Try_And_Catch.csproj.AssemblyReference.cache
+C:\Users\ori\Documents\workspace\.net\Try_And_Catch\Try_And_Catch\obj\Debug\Try_And_Catch.csproj.CoreCompileInputs.cache
+C:\Users\ori\Documents\workspace\.net\Try_And_Catch\Try_And_Catch\obj\Debug\Try_And_Catch.exe
+C:\Users\ori\Documents\workspace\.net\Try_And_Catch\Try_And_Catch\obj\Debug\Try_And_Catch.pdb

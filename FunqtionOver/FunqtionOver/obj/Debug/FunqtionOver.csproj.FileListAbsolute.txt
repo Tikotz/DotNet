@@ -1,0 +1,7 @@
+C:\Users\ori\Documents\workspace\.net\FunqtionOver\FunqtionOver\bin\Debug\FunqtionOver.exe.config
+C:\Users\ori\Documents\workspace\.net\FunqtionOver\FunqtionOver\bin\Debug\FunqtionOver.exe
+C:\Users\ori\Documents\workspace\.net\FunqtionOver\FunqtionOver\bin\Debug\FunqtionOver.pdb
+C:\Users\ori\Documents\workspace\.net\FunqtionOver\FunqtionOver\obj\Debug\FunqtionOver.csproj.AssemblyReference.cache
+C:\Users\ori\Documents\workspace\.net\FunqtionOver\FunqtionOver\obj\Debug\FunqtionOver.csproj.CoreCompileInputs.cache
+C:\Users\ori\Documents\workspace\.net\FunqtionOver\FunqtionOver\obj\Debug\FunqtionOver.exe
+C:\Users\ori\Documents\workspace\.net\FunqtionOver\FunqtionOver\obj\Debug\FunqtionOver.pdb

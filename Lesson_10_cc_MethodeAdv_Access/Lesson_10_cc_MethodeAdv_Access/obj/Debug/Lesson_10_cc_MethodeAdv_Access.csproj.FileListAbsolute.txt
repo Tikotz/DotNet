@@ -1,0 +1,7 @@
+C:\Users\ori\Documents\workspace\.net\Lesson_10_cc_MethodeAdv_Access\Lesson_10_cc_MethodeAdv_Access\bin\Debug\Lesson_10_cc_MethodeAdv_Access.exe.config
+C:\Users\ori\Documents\workspace\.net\Lesson_10_cc_MethodeAdv_Access\Lesson_10_cc_MethodeAdv_Access\bin\Debug\Lesson_10_cc_MethodeAdv_Access.exe
+C:\Users\ori\Documents\workspace\.net\Lesson_10_cc_MethodeAdv_Access\Lesson_10_cc_MethodeAdv_Access\bin\Debug\Lesson_10_cc_MethodeAdv_Access.pdb
+C:\Users\ori\Documents\workspace\.net\Lesson_10_cc_MethodeAdv_Access\Lesson_10_cc_MethodeAdv_Access\obj\Debug\Lesson_10_cc_MethodeAdv_Access.csproj.AssemblyReference.cache
+C:\Users\ori\Documents\workspace\.net\Lesson_10_cc_MethodeAdv_Access\Lesson_10_cc_MethodeAdv_Access\obj\Debug\Lesson_10_cc_MethodeAdv_Access.csproj.CoreCompileInputs.cache
+C:\Users\ori\Documents\workspace\.net\Lesson_10_cc_MethodeAdv_Access\Lesson_10_cc_MethodeAdv_Access\obj\Debug\Lesson_10_cc_MethodeAdv_Access.exe
+C:\Users\ori\Documents\workspace\.net\Lesson_10_cc_MethodeAdv_Access\Lesson_10_cc_MethodeAdv_Access\obj\Debug\Lesson_10_cc_MethodeAdv_Access.pdb

@@ -1,0 +1,7 @@
+C:\Users\ori\Documents\workspace\.net\memoryGamePROJECT\memoryGamePROJECT\bin\Debug\memoryGamePROJECT.exe.config
+C:\Users\ori\Documents\workspace\.net\memoryGamePROJECT\memoryGamePROJECT\bin\Debug\memoryGamePROJECT.exe
+C:\Users\ori\Documents\workspace\.net\memoryGamePROJECT\memoryGamePROJECT\bin\Debug\memoryGamePROJECT.pdb
+C:\Users\ori\Documents\workspace\.net\memoryGamePROJECT\memoryGamePROJECT\obj\Debug\memoryGamePROJECT.csproj.AssemblyReference.cache
+C:\Users\ori\Documents\workspace\.net\memoryGamePROJECT\memoryGamePROJECT\obj\Debug\memoryGamePROJECT.csproj.CoreCompileInputs.cache
+C:\Users\ori\Documents\workspace\.net\memoryGamePROJECT\memoryGamePROJECT\obj\Debug\memoryGamePROJECT.exe
+C:\Users\ori\Documents\workspace\.net\memoryGamePROJECT\memoryGamePROJECT\obj\Debug\memoryGamePROJECT.pdb

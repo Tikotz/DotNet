@@ -1,0 +1,7 @@
+C:\Users\ori\Documents\workspace\.net\Properties\Properties\bin\Debug\Properties.exe.config
+C:\Users\ori\Documents\workspace\.net\Properties\Properties\bin\Debug\Properties.exe
+C:\Users\ori\Documents\workspace\.net\Properties\Properties\bin\Debug\Properties.pdb
+C:\Users\ori\Documents\workspace\.net\Properties\Properties\obj\Debug\Properties.csproj.AssemblyReference.cache
+C:\Users\ori\Documents\workspace\.net\Properties\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
+C:\Users\ori\Documents\workspace\.net\Properties\Properties\obj\Debug\Properties.exe
+C:\Users\ori\Documents\workspace\.net\Properties\Properties\obj\Debug\Properties.pdb

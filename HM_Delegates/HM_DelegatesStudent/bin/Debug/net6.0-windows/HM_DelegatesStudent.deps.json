@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HM_DelegatesStudent/1.0.0": {
+        "dependencies": {
+          "HM_Delegates": "1.0.0"
+        },
+        "runtime": {
+          "HM_DelegatesStudent.dll": {}
+        }
+      },
+      "HM_Delegates/1.0.0": {
+        "runtime": {
+          "HM_Delegates.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HM_DelegatesStudent/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HM_Delegates/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

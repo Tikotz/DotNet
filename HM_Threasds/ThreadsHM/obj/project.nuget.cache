@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "UJU6TjSUeaRatMTjXf7pmH22SSWjVdKJCBEB4Rfc9KZ8xsOngvS1Vrsh+axNPQp+i56Jm2vyihsbx7UoouFd3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ori\\Documents\\workspace\\.net\\HM_Threasds\\ThreadsHM\\ThreadsHM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ori\\.nuget\\packages\\ikvm\\8.1.5717\\ikvm.8.1.5717.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'IKVM 8.1.5717' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "IKVM",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
