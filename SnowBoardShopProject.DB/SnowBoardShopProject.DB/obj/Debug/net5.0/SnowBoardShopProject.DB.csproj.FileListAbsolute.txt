@@ -1,0 +1,15 @@
+C:\Users\ori\Documents\workspace\.net\SnowBoardShopProject.DB\SnowBoardShopProject.DB\bin\Debug\net5.0\SnowBoardShopProject.DB.deps.json
+C:\Users\ori\Documents\workspace\.net\SnowBoardShopProject.DB\SnowBoardShopProject.DB\bin\Debug\net5.0\SnowBoardShopProject.DB.dll
+C:\Users\ori\Documents\workspace\.net\SnowBoardShopProject.DB\SnowBoardShopProject.DB\bin\Debug\net5.0\SnowBoardShopProject.DB.pdb
+C:\Users\ori\Documents\workspace\.net\SnowBoardShopProject.DB\SnowBoardShopProject.DB\obj\Debug\net5.0\SnowBoardShopProject.DB.csproj.AssemblyReference.cache
+C:\Users\ori\Documents\workspace\.net\SnowBoardShopProject.DB\SnowBoardShopProject.DB\obj\Debug\net5.0\SnowBoardShopProject.DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ori\Documents\workspace\.net\SnowBoardShopProject.DB\SnowBoardShopProject.DB\obj\Debug\net5.0\SnowBoardShopProject.DB.AssemblyInfoInputs.cache
+C:\Users\ori\Documents\workspace\.net\SnowBoardShopProject.DB\SnowBoardShopProject.DB\obj\Debug\net5.0\SnowBoardShopProject.DB.AssemblyInfo.cs
+C:\Users\ori\Documents\workspace\.net\SnowBoardShopProject.DB\SnowBoardShopProject.DB\obj\Debug\net5.0\SnowBoardShopProject.DB.csproj.CoreCompileInputs.cache
+C:\Users\ori\Documents\workspace\.net\SnowBoardShopProject.DB\SnowBoardShopProject.DB\obj\Debug\net5.0\SnowBoardShopProject.DB.dll
+C:\Users\ori\Documents\workspace\.net\SnowBoardShopProject.DB\SnowBoardShopProject.DB\obj\Debug\net5.0\refint\SnowBoardShopProject.DB.dll
+C:\Users\ori\Documents\workspace\.net\SnowBoardShopProject.DB\SnowBoardShopProject.DB\obj\Debug\net5.0\SnowBoardShopProject.DB.pdb
+C:\Users\ori\Documents\workspace\.net\SnowBoardShopProject.DB\SnowBoardShopProject.DB\obj\Debug\net5.0\ref\SnowBoardShopProject.DB.dll
+C:\Users\ori\Documents\workspace\.net\SnowBoardShopProject.DB\SnowBoardShopProject.DB\bin\Debug\net5.0\SnowBoardShopProject.DB.runtimeconfig.json
+C:\Users\ori\Documents\workspace\.net\SnowBoardShopProject.DB\SnowBoardShopProject.DB\bin\Debug\net5.0\SnowBoardShopProject.DB.runtimeconfig.dev.json
+C:\Users\ori\Documents\workspace\.net\SnowBoardShopProject.DB\SnowBoardShopProject.DB\obj\Debug\net5.0\SnowBoardShopProject.DB.genruntimeconfig.cache

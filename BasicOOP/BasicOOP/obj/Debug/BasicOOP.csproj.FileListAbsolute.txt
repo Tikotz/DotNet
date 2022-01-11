@@ -1,0 +1,8 @@
+C:\Users\ori\Documents\workspace\.net\BasicOOP\BasicOOP\bin\Debug\BasicOOP.exe.config
+C:\Users\ori\Documents\workspace\.net\BasicOOP\BasicOOP\bin\Debug\BasicOOP.exe
+C:\Users\ori\Documents\workspace\.net\BasicOOP\BasicOOP\bin\Debug\BasicOOP.pdb
+C:\Users\ori\Documents\workspace\.net\BasicOOP\BasicOOP\obj\Debug\BasicOOP.csproj.AssemblyReference.cache
+C:\Users\ori\Documents\workspace\.net\BasicOOP\BasicOOP\obj\Debug\BasicOOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\ori\Documents\workspace\.net\BasicOOP\BasicOOP\obj\Debug\BasicOOP.csproj.CoreCompileInputs.cache
+C:\Users\ori\Documents\workspace\.net\BasicOOP\BasicOOP\obj\Debug\BasicOOP.exe
+C:\Users\ori\Documents\workspace\.net\BasicOOP\BasicOOP\obj\Debug\BasicOOP.pdb
